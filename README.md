@@ -18,4 +18,4 @@ The final assignment from the Coursera course Introduction to Data Science in Py
 
 ### Geometric Brownian Motion.ipynb
 
-Simulating the Euler approximation of geometric brownian motion as well as the Ornstein-Uhlenbeck process. Matplotlib is used to graph sample paths, sample means, and true values of the processes over time. Scipy.stats is used to run 
+Simulating the Euler approximation of geometric brownian motion as well as the Ornstein-Uhlenbeck process. Matplotlib is used to graph sample paths, sample means, and true values of the processes over time. Scipy.stats is used to calculate p-values.
