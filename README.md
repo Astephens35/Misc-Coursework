@@ -8,11 +8,13 @@ A class demo used when I was a teaching assistance for Optimization I. This Matl
 
 ### Monte Carlo Birthday.ipynb 
 
-Calculates the expectation of the birthday queueing problem. As in, if we ask random people their birthday one after the other, how many are we expected to ask until someone has the same birth date (month, day) as a previous person?<br /><br />
+Calculates the expectation of the birthday queueing problem. As in, if we ask random people their birthday one after the other, how many are we expected to ask until someone has the same birth date (month, day) as a previous person?
+
 
 ### Coursera_assigment.ipynb
 
-The final assignment from the Coursera course Introduction to Data Science in Python, which involves cleaning & manipulating data and running a t-test.<br /><br />
+The final assignment from the Coursera course Introduction to Data Science in Python, which involves cleaning & manipulating data and running a t-test.
+
 
 ### Geometric Brownian Motion.ipynb
 
